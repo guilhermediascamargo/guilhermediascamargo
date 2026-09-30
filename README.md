@@ -1,16 +1,15 @@
-## Hi there 👋
+# Guilherme Dias Camargo
 
-<!--
-**guilhermediascamargo/guilhermediascamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Formado em Sistemas de Informação em 2024, com interesse em tecnologia, desenvolvimento de software, automação, inteligência artificial e dados.
 
-Here are some ideas to get you started:
+Atualmente busco aprimorar meus conhecimentos técnicos por meio de estudos e projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse especial em soluções tecnológicas aplicadas ao futebol e ao esporte.
+
+## Áreas de interesse
+
+- Desenvolvimento de software
+- Automação
+- Inteligência artificial
+- Dados
+- Tecnologia aplicada ao esporte
